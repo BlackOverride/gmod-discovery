@@ -17,3 +17,7 @@ Enhances the Garry’s Mod server browser by modifying the menu Lua file to disp
 3. Place the `mainmenu.lua` file from this repository into the same directory.
 
 4. Enjoy freedom of speech
+
+## Notes
+
+You might have to repeat the process when GMod client is updated~!
